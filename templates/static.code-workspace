@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "static",
+			"path": "../static"
+		},
+		{
+			"name": "1101-final-project",
+			"path": "../../../1101-final-project"
+		},
+		{
+			"name": "templates",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
